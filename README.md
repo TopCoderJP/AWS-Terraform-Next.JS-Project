@@ -1,1 +1,1 @@
-# AWS-Terraform  - Portforlio Project
+# AWS-Terraform  - Next.JS - Portforlio Project
