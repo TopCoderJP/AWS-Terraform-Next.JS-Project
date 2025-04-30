@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+To checkout the Terraform code, please look at terraform-js folder and consult the main.tf and state.tf
