@@ -1,5 +1,5 @@
 # AWS-Terraform  - Next.JS - Portfolio Project
-============
+===============================================
 
 
 This is a simple blog project built with Next.js. It uses the traditional pages directory for routing, making it suitable for small projects like blogs, portfolios, or landing pages.
@@ -82,3 +82,10 @@ How to Run the Project
 
     ```
 
+
+Conclusion & next steps
+-----------------------
+
+This project follows the traditional pages directory routing approach in Next.js. It's a simple and effective setup for smaller applications like blogs or portfolios. The next step will be connecting a CI/CD pipeline to this project for DEVOPS.
+
+Feel free to explore the code, customize the styles, and extend the functionality as needed.
