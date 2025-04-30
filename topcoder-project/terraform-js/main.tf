@@ -74,7 +74,6 @@ resource "aws_s3_bucket_policy" "nextjs_bucket_policy" {
 
 # CloudFront Origin Access Identity (OAI)
 # Creates an OAI to restrict direct access to the S3 bucket and allow only CloudFront to serve content
-
 resource "aws_cloudfront_origin_access_identity" "origin_access_identity" {
     comment = "OAI for NextJS site - Allows CloudFront to reach the bucket"
 }
